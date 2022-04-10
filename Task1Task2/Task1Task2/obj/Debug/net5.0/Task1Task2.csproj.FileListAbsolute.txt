@@ -1,0 +1,16 @@
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\Task1Task2.exe
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\Task1Task2.deps.json
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\Task1Task2.runtimeconfig.json
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\Task1Task2.runtimeconfig.dev.json
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\Task1Task2.dll
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\ref\Task1Task2.dll
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\bin\Debug\net5.0\Task1Task2.pdb
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.csproj.AssemblyReference.cache
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.AssemblyInfoInputs.cache
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.AssemblyInfo.cs
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.csproj.CoreCompileInputs.cache
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.dll
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\ref\Task1Task2.dll
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.pdb
+C:\Users\Elshan\Desktop\Task1Task2\Task1Task2\obj\Debug\net5.0\Task1Task2.genruntimeconfig.cache
